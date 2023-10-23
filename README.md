@@ -12,11 +12,13 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 ```
-Python requirements:
+Technologies used:
 - flask
 - flask-cors
 - openai
 - matplotlib
+- Java Script
+- React
 
-React Modules Used:
-- idk yet
+Video Demo: 
+https://www.youtube.com/watch?v=4VDZo8ctGx8
